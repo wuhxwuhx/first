@@ -1,1 +1,1 @@
-﻿print("hello scm")
+print("hello scm") 
